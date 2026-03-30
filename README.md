@@ -40,9 +40,9 @@ I’ve built AI systems that **reduced token costs by 22% while improving accura
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Devansh Singh Jamwal)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dsjamwal29@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devanshjamwal_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh%20Singh%20Jamwal-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-singh-jamwal-11044629b/)  
+[![Email](https://img.shields.io/badge/Email-dsjamwal29%40gmail.com-red?logo=gmail&logoColor=white)](mailto:dsjamwal29@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-@devanshjamwal__-E4405F?logo=instagram&logoColor=white)](https://instagram.com/devanshjamwal_)
 
 ---
 
