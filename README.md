@@ -99,9 +99,9 @@ Full-stack job platform with **AI match scoring + geo-based discovery**
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DSJamwal2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=DSJamwal2004&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSJamwal2004&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DSJamwal2004&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)  
+![](https://streak-stats.demolab.com?user=DSJamwal2004&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSJamwal2004&layout=compact&theme=radical)
 
 ---
 
