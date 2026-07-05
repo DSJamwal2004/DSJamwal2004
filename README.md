@@ -70,7 +70,7 @@ I'm an **AI Engineer** specialized in building **production-grade RAG systems**,
 - 📝 **Published at IEEE Global AI Summit 2025** · DOI: 10.1109/AISummit66170.2025.11411619  
 
 [![Repo](https://img.shields.io/badge/Code-PIPO-181717?style=flat-square&logo=github)](https://github.com/DSJamwal2004)
-[![Paper](https://img.shields.io/badge/Paper-IEEE-blue?style=flat-square)](https://ieeexplore.ieee.org)
+[![Paper](https://img.shields.io/badge/Paper-IEEE-blue?style=flat-square)]([https://ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/11411619))
 
 ---
 
