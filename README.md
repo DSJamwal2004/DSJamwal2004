@@ -55,7 +55,7 @@ I'm an **AI Engineer** specialized in building **production-grade RAG systems**,
 - 📱 Application workflow management (Pending → Accepted → Rejected states)  
 
 [![Repo](https://img.shields.io/badge/Code-ROJGAR--Boat-181717?style=flat-square&logo=github)](https://github.com/DSJamwal2004)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square&logo=vercel)](https://rojgar-boat-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-10B981?style=flat-square&logo=vercel)](https://rojgar-boat.vercel.app)
 
 ---
 
